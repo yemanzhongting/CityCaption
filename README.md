@@ -280,7 +280,9 @@ image_text = init_widgets(
 )
 ```
 
-![img](http://www.qiaoyou020.com/UserData/6079/images/6359310019134952985647405.jpg)
+<!-- ![img](http://www.qiaoyou020.com/UserData/6079/images/6359310019134952985647405.jpg) -->
+
+![img](img/struct.jpg)
 
 迭代计算自己的图像库
 
@@ -312,7 +314,7 @@ https://github.com/ruotianluo/ImageCaptioning.pytorch
 
 此外,如果只需要做测试,简易方法是使用hugging face的预训练模型. 他的训练逻辑与上述有所不同,以VIT transformer作为图像端的特征抽取,以GPT2作为文本生成部分.
 
-![点此可查看详情](https://i.bmp.ovh/imgs/2022/07/14/72fead42fa7f220b.png)
+![点此可查看详情](img/hugg.jpg)
 
 hugging face是一个基于transformer的开源社区,作者已经共享了模型vit-gpt2-image-captioning,在**Google Colab平台**下使用更佳.
 
@@ -356,5 +358,5 @@ predict_step(['doctor.e16ba4e4.jpg'] # ['a woman in a hospital bed with a woman 
 
 https://huggingface.co/spaces/SRDdev/Image-Caption
 
-![点此可查看详情](https://i.bmp.ovh/imgs/2022/07/14/7b16e8d5119e0cdc.png)
+![点此可查看详情](img/cap.jpg)
 
