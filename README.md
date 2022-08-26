@@ -49,7 +49,7 @@ The Microsoft Common Objects in Context dataset is the most widely applicable an
 
 **image caption 架构**
 
-![image-20220714115009004](https://i.bmp.ovh/imgs/2022/07/14/946a8664b224b856.png)
+![img](img/struct.jpg)
 
 For the decoder part, the most common one is the Long short-term memory (LSTM) recurrent neural network; for the encoder part (green), there are **three main methods**: Resnet101 feature, Bottom-Up feature, and the vilbert feature (**accuracy** CIDEr=1.158,SPICE=0.2114).
 
@@ -282,7 +282,7 @@ image_text = init_widgets(
 
 <!-- ![img](http://www.qiaoyou020.com/UserData/6079/images/6359310019134952985647405.jpg) -->
 
-![img](img/struct.jpg)
+![img](img/demo.jpg)
 
 迭代计算自己的图像库
 
