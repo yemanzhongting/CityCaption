@@ -9,10 +9,11 @@ year = {2022},
 issn = {1569-8432},
 doi = {https://doi.org/10.1016/j.jag.2022.102989},
 url = {https://www.sciencedirect.com/science/article/pii/S1569843222001807},
-author = {Yan Zhang and Fan Zhang and Nengcheng Chen},
-keywords = {GeoAI, Natural language processing, Data translation, Pretrained model, Street view, Multi-modal},
-abstract = {We propose a geographically reproducible approach to urban scene sensing based on large-scale pre-trained models. With the rise of GeoAI research, many high-quality urban observation datasets and deep learning models have emerged. However, geospatial heterogeneity makes these resources challenging to share and migrate to new application scenarios. This paper introduces vision language and semantic pre-trained model for street view image analysis as an example. This bridges the boundaries of data formats under location coupling, allowing for the acquisition of text-image urban scene objective descriptions in the physical space from the human perspective, including entities, entity attributes, and the relationships between entities. Besides, we proposed the SFT-BERT model to extract text feature sets of 10 urban land use categories from 8,923 scenes in Wuhan. The results show that our method outperforms seven baseline models, including computer vision, and improves 15% compared to traditional deep learning methods, demonstrating the potential of a pre-train & fine-tune paradigm for GIS spatial analysis. Our model could also be reused in other cities, and more accurate image descriptions and scene judgments could be obtained by inputting street view images from different angles. The code is shared at: github.com/yemanzhongting/CityCaption.}
+author = {Yan Zhang and Fan Zhang and Nengcheng Chen}
 }
+
+微信公众号有该文章的详细推送，欢迎关注!
+https://mp.weixin.qq.com/s/m5IKEBE0ZLltLRBcgcxnwA
 
 Using NLP For City Learning
 ### Step1:get sv image caption
