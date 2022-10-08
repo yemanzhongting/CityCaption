@@ -1,5 +1,6 @@
 # CityCaption
 ### Please Cite Our Paper:
+```
 @article{ZHANG2022102989,
 title = {Migratable urban street scene sensing method based on vision language pre-trained model},
 journal = {International Journal of Applied Earth Observation and Geoinformation},
@@ -11,6 +12,7 @@ doi = {https://doi.org/10.1016/j.jag.2022.102989},
 url = {https://www.sciencedirect.com/science/article/pii/S1569843222001807},
 author = {Yan Zhang and Fan Zhang and Nengcheng Chen}
 }
+```
 
 微信公众号有该文章的详细推送，欢迎关注!
 https://mp.weixin.qq.com/s/m5IKEBE0ZLltLRBcgcxnwA
