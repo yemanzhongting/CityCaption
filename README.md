@@ -1,5 +1,6 @@
 # CityCaption
 ### Please Cite Our Paper:
+Migratable urban street scene sensing method based on vision language pre-trained model 
 ```
 @article{ZHANG2022102989,
 title = {Migratable urban street scene sensing method based on vision language pre-trained model},
